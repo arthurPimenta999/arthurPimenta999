@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22293
-Fork on GitHub7235
 <h1 align="center">Oi 👋, me chamo Arthur Pimenta</h1>
 <h3 align="center">Um desenvolvedor brasileiro apaixonado por front-end.</h3>
 
