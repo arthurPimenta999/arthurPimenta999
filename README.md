@@ -1,8 +1,9 @@
 <h1 align="center">Oi 👋, me chamo Arthur Pimenta</h1>
 <h3 align="center">Um desenvolvedor brasileiro apaixonado por front-end.</h3>
 
-- 🌱 Atualmente estou estudando **Next.js, PHP, Tailwind** - 💬 Me pergunte
-sobre **React-Native!** - 📫 Contato: **arthurgoes1411@gmail.com**
+- 🌱 Atualmente estou estudando **Next.js, PHP, Tailwind**
+- 💬 Me pergunte sobre **React-Native!**
+- 📫 Contato: **arthurgoes1411@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
